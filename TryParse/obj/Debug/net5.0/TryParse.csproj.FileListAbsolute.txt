@@ -1,0 +1,16 @@
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\bin\Debug\net5.0\TryParse.exe
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\bin\Debug\net5.0\TryParse.deps.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\bin\Debug\net5.0\TryParse.runtimeconfig.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\bin\Debug\net5.0\TryParse.runtimeconfig.dev.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\bin\Debug\net5.0\TryParse.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\bin\Debug\net5.0\TryParse.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.csproj.AssemblyReference.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.AssemblyInfoInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.AssemblyInfo.cs
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\refint\TryParse.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\TryParse.genruntimeconfig.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\TryParse\obj\Debug\net5.0\ref\TryParse.dll
